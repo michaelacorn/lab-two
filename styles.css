@@ -1,0 +1,33 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+}
+
+body {
+    background-color: #f9fafc;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0px;
+}
+
+button {
+    border: none;
+    background-color: black;
+    color: white;
+    border-radius: 25px;
+    width: 100%;
+    padding: 10px;
+    font-size: medium;
+}
+
+a {
+    text-decoration: none;
+    color: #69696a; 
+}
+
+p {
+    border-left: solid #69696a;
+    padding: 5px;
+    color: #69696a;
+}
